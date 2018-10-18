@@ -1,0 +1,10 @@
+hello world,
+
+testing:
+
+DOI
+license GPL v3
+build passing
+docs passing
+pypi
+anaconda cloud
